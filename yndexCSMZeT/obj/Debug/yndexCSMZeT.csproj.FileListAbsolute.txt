@@ -1,0 +1,13 @@
+E:\Work\Selenium\vs2015\yndexCSMZeT\yndexCSMZeT\bin\Debug\yndexCSMZeT.exe.config
+E:\Work\Selenium\vs2015\yndexCSMZeT\yndexCSMZeT\obj\Debug\yndexCSMZeT.csprojResolveAssemblyReference.cache
+E:\Work\Selenium\vs2015\yndexCSMZeT\yndexCSMZeT\obj\Debug\yndexCSMZeT.Form1.resources
+E:\Work\Selenium\vs2015\yndexCSMZeT\yndexCSMZeT\obj\Debug\yndexCSMZeT.Properties.Resources.resources
+E:\Work\Selenium\vs2015\yndexCSMZeT\yndexCSMZeT\obj\Debug\yndexCSMZeT.csproj.GenerateResource.Cache
+E:\Work\Selenium\vs2015\yndexCSMZeT\yndexCSMZeT\bin\Debug\yndexCSMZeT.exe
+E:\Work\Selenium\vs2015\yndexCSMZeT\yndexCSMZeT\bin\Debug\yndexCSMZeT.pdb
+E:\Work\Selenium\vs2015\yndexCSMZeT\yndexCSMZeT\bin\Debug\WebDriver.dll
+E:\Work\Selenium\vs2015\yndexCSMZeT\yndexCSMZeT\bin\Debug\WebDriver.Support.dll
+E:\Work\Selenium\vs2015\yndexCSMZeT\yndexCSMZeT\bin\Debug\WebDriver.xml
+E:\Work\Selenium\vs2015\yndexCSMZeT\yndexCSMZeT\bin\Debug\WebDriver.Support.xml
+E:\Work\Selenium\vs2015\yndexCSMZeT\yndexCSMZeT\obj\Debug\yndexCSMZeT.exe
+E:\Work\Selenium\vs2015\yndexCSMZeT\yndexCSMZeT\obj\Debug\yndexCSMZeT.pdb
